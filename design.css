@@ -5,6 +5,10 @@ body {
     
 
 }
+   
+
+
+
 header {
     background-color: #E7473C;
     color: rgb(0, 0, 0);
@@ -16,7 +20,7 @@ header {
    border-radius: 5px;
 
 }
-.first  {
+.first-nav  {
     background-color:#E7473C;
     color: rgb(0, 0, 0);
     padding: 3px;
@@ -27,7 +31,7 @@ header {
    
     margin-top: 10px;
 }
-.second {
+.second-nav {
     background-color: #E7473C;
     color: rgb(0, 0, 0);
     padding: 3px;
